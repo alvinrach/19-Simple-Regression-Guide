@@ -1,2 +1,5 @@
 # Simple-Regression-Guide
-For learning purpose. Get exposed to various regression models using simple datasets
+For learning/education purposes. Get exposed to various regression models using simple datasets.
+
+Things to add:
+-Add the accuracy score
